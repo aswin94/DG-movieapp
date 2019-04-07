@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## NOTE: I have made few changes to the JSON files. Sorry that I couldn't spend much time on the style and few other features. Thanks for the opportunity, It was a great learning experience. 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
