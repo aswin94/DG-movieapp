@@ -1,0 +1,41 @@
+.back-button {
+    width: 30%;
+    margin-right: 5%;
+}
+
+.button {
+    width: 10%;
+}
+
+.bg-cover-image{
+    padding: 10% 2%;
+    position: fixed;
+    width: 100%;
+}
+
+.movie-list{
+    padding-top: 28%;
+}
+
+.movie-cards {
+    background-color: black;
+}
+
+.movie-card{
+    width: 33%;
+    padding: 2%;
+}
+
+.movie-name {
+    color: #ffffff;
+}
+
+.search{
+    font-size: 10px;
+    float: right;
+}
+
+.search-bar{
+    margin-right: auto;
+}
+

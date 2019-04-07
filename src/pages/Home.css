@@ -1,0 +1,16 @@
+.App-container {
+    text-align: center;
+    padding-top: 2%;
+    background-color: black;
+    /*background-image: linear-gradient(90deg,#56ccf2,#2f80ed);*/
+}
+
+.header-text {
+    max-width: 600px;
+    margin: auto;
+}
+
+.row a:hover {
+    text-decoration: none;
+}
+
